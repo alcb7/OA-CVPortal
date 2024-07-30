@@ -1,0 +1,6 @@
+@OA.CVPortal.FileAPI_HostAddress = http://localhost:5151
+
+GET {{OA.CVPortal.FileAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
